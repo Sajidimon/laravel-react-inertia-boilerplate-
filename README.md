@@ -1,4 +1,3 @@
-Here's a solid starting point for your `README.md` file for a Laravel 10 + Inertia.js + React boilerplate project. It includes setup instructions, stack details, and common scripts:
 
 ---
 
